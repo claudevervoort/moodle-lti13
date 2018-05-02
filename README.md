@@ -14,5 +14,5 @@ the user does not have to copy paste keys and ids, just a URL.
 app description. [step3](step3-almostAutomaticWithDeepLinking.md). Pick the app, verify, deploy.
 - There is still an inherent issue that external tools deployed at the site are available
 to all courses, forcing tools to be deployed at the course level to avoid the noise. 
-Tools should be made optional, and require the instructor to pick a
+Tools should have the option to be made optional, and require the instructor to pick a
 pre-configured tool and explicitly add it. [step4](step4-explicitDeployment.md)
