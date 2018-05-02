@@ -24,6 +24,8 @@ the tool allowing a migration from a 1.1 model to 1.3 one.
 
 <img src='assets/config_lti13.png'>
 
+The code displaying this option is under: https://github.com/CengageEng/moodle/commit/e18b249ddaff7e41b114e58273e2feed7cd46c1b
+
 ## What's in an LTI 1.3 deployment?
 
 LTI 1.3 deployments are more complex because they are assymetric: the communication
