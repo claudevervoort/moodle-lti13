@@ -1,4 +1,4 @@
-This project is temporary to build resources and discuss plans on how to bring LTI 1.3 to moodle.
+This repo is temporary and proposed as a way to build resources and discuss plans on how to bring LTI 1.3 to moodle.
 
 It will hopefully become an actual Moodle Project.
 
