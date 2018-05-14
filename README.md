@@ -15,4 +15,4 @@ app description. [step3](step3-almostAutomaticWithDeepLinking.md). Pick the app,
 - There is still an inherent issue that external tools deployed at the site are available
 to all courses, forcing tools to be deployed at the course level to avoid the noise. 
 Tools should have the option to be made optional, and require the instructor to pick a
-pre-configured tool and explicitly add it. [site tool deployment](step4-explicitDeployment.md)
+pre-configured tool and explicitly add it. [site tool deployment](optionalCourseDeployment.md)
