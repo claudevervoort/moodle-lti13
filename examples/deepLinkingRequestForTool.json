@@ -33,7 +33,7 @@
     "width": 240,
     "return_url": "http://example.org/return"
   },
-  "http://purl.imsglobal.org/spec/lti/claim/deep_linking_settings": {
+  "http://purl.imsglobal.org/spec/lti-dl/claim/deep_linking_settings": {
     "accept_types": ["https://moodle.org/ltiapp"],
     "accept_multiple": false,
     "auto_create": false

@@ -46,7 +46,7 @@
                     }
                 ]
             },
-            "confirmationUrl": "/confirm?dl=a783djf2"
+            "activationUrl": "/deploy?dl=a783djf2"
         }
     ]
 }
