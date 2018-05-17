@@ -56,7 +56,7 @@ TTL (1 hour).
 
 ### Activation Response
 
-The (activation response)[examples/toolActivationResponse.json] confirms the app 
+The [activation response](examples/toolActivationResponse.json) confirms the app
 is now active, and the public key to use to identify it. It closes the
 app deploy and activation flow. The app can now be used in moodle.
 
@@ -100,3 +100,7 @@ a new tool. In the url, enter: https://virtualgarden.example.com/lti. Make sure
 you check content item message and set the security option to be LTI 1.3 automatic.
 In the services section select Use this service
 for grade sync only for the IMS LTI Assignment and Grade Services.
+
+Note that this is still a mouthful and will get more complicated as the number of
+options increase. Thus the proposal of a tool descriptor that can be used to
+pre-fill all those options proposed in the [next step](step3-almostAutomaticWithDeepLinking.md).

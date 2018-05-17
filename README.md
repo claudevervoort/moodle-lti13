@@ -11,8 +11,11 @@ lacking support for LTI 1.3 security model to gain full LTI advantage status.
 However LTI 1.3 core specifications do not address deployments, and due to the assymetrical
 nature of the LTI 1.3 security model, it is now more arduous. So this proposal goes above
 just the support of the core specification to propose a deployment model. Hopefully a similar
-model will be adopted by other platforms and siloed avoided (i.e. use this to deploy in Moodle,
-do xx to deploy in zz).
+model will be adopted by other platforms, standardized, and siloed avoided (i.e. use this to
+deploy in Moodle, do xx to deploy in zz). See [activation flow](step2-simplerWithActivationFlow.md)
+and [deep linking to pick app](step3-almostAutomaticWithDeepLinking.md).
+
+
 
 - [Step 1 is to actually do all LTI 1.3](step1-coreLTI13support.md). With that work, and since
 Moodle already supports assignment and grades as well as membership service, this will bring

@@ -163,3 +163,7 @@ user's session, and the deep linking data is only used to pre-fill the form.
 Services must expect the presence of a bearer token in the request, and delegate to the
 OAuth 2.0 service, something like: `is_authorized(token, scope)`.
 
+The setup on LTI 1.3 tool is made arduous by the required exchange of data that now
+needs to be set on the tool. The [next step](step2-simplerWithActivationFlow.md)
+automates the sharing of configuration data and allows the tool to interject its
+own UI flow as part of the activation.
