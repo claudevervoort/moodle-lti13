@@ -19,6 +19,8 @@ store to pick an app. The app store is a specific kind of LTI tool.
 
 The 1st iteration will be to support the ad-hoc model.
 
+<img src="assets/moodle_deeplinking_app_deploy_horizontal.png">
+
 ## Deep Linking flow
 
 The deep linking [request](examples/deepLinkingRequestForTool.json) is sent with only one
