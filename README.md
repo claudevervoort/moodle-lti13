@@ -22,8 +22,8 @@ Moodle already supports assignment and grades as well as membership service, thi
 Moodle to **full LTI 1.3 advantage support**
 - Once this is in place, we automate the sharing of tool configuration in 
 [step 2](step2-simplerWithActivationFlow.md) by introducing an **activation flow**.
-- To complete the experience, the deeplinking flow is extended to be able to pick an
-app description. [step3](step3-almostAutomaticWithDeepLinking.md). Pick the app, verify, deploy.
+- To complete the experience, in [step3](step3-almostAutomaticWithDeepLinking.md), the deeplinking 
+flow is extended to be able to pick a tool descriptor that will pre-fill all the tool settings. Pick the tool, verify, activate.
 - There is still an inherent issue that external tools deployed at the site are available
 to all courses, forcing tools to be deployed at the course level to avoid the noise. 
 Tools should have the option to be made optional, and require the instructor to pick a
